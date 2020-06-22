@@ -9,10 +9,9 @@ There is some work participants should complete prior to attendance:
     1. [Sourcetree](https://www.sourcetreeapp.com/): this is the default application we use at Decision Lens for git.
     2. Or [Github Desktop](https://desktop.github.com/): if you do not have Sourcetree already installed on your computer, I recommend installing Github Desktop instead.  It is simpler and easier for first time users.
 3. Install [Anaconda with Python 3.7](https://www.anaconda.com/products/individual).  This will give you access to Python and the wonderous [Jupyter](https://jupyter.org) system for Python programming.
-4. Clone this repository, the instructions are:
-   1. For Github Desktop, you:
-      1. Goto https://github.com/dlens/ML2020
-      1. Click on the green clone/download button.
-   2. For Sourcetree:
-      1. Select File/Clone from the menu
-      2. Input the URL https://github.com/dlens/ML2020
+1. Clone this repository using Github Desktop:
+   1. Goto https://github.com/dlens/ML2020
+   1. Click on the green clone/download button.
+2. Or clone with Sourcetree:
+   1. Select File/Clone from the menu
+   2. Input the URL https://github.com/dlens/ML2020
