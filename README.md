@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## DL ML Summit Summer 2020
 
-You can use the [editor on GitHub](https://github.com/dlens/ML2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the home for information on the Decision Lens Machine Learning Summit happening Summer of 2020.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dlens/ML2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Prework
+There is some work participants should complete prior to attendance:
+1. Read [Data Science (MIT Press Essential Knowledge Series)](https://www.amazon.com/Data-Science-Press-Essential-Knowledge/dp/0262535432/ref=sr_1_2?crid=2BN1NQ4MBBY6N&dchild=1&keywords=data+science+mit+press+essential+knowledge+series&qid=1592835183&sprefix=data+science+mit%2Caps%2C183&sr=8-20).  This will give us a common language to discuss data science related tasks and ideas.
+2. Install a git client, either:
+  a. [Sourcetree](https://www.sourcetreeapp.com/): this is the default application we use at Decision Lens for git.
+  b. Or [Github Desktop](https://desktop.github.com/): if you do not have Sourcetree already installed on your computer, I recommend installing Github Desktop instead.  It is simpler and easier for first time users.
+3. Install [Anaconda with Python 3.7](https://www.anaconda.com/products/individual).  This will give you access to Python and the wonderous [Jupyter](https://jupyter.org) system for Python programming.
+4. Clone this repository.
